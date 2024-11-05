@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwimaora.github.io/Gwg/sitemap_index.txt
+Sitemap: https://uwimaora.github.io/HRr/sitemap_index.txt
+Sitemap: https://uwimaora.github.io/HXv/sitemap_index.txt
+Sitemap: https://uwimaora.github.io/dIt/sitemap_index.txt
